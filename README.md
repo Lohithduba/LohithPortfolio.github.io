@@ -29,7 +29,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 If you have any questions or suggestions, feel free to reach out:
 
 📧 Email: lohithduba@gmail.com
-
 🌐 LinkedIn: linkedin.com/in/lohith-duba-64965324a/
 
 
