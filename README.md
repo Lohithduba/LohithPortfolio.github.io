@@ -5,24 +5,6 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 You can check out the live version of my portfolio here: Portfolio Website (Replace with your actual link)
 
 
-📂 Folder Structure
-
-📦 portfolio-website
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 Navbar.js
- ┃ ┃ ┣ 📜 Footer.js
- ┃ ┃ ┗ 📜 ProjectCard.js
- ┃ ┣ 📂 pages
- ┃ ┃ ┣ 📜 Home.js
- ┃ ┃ ┣ 📜 About.js
- ┃ ┃ ┗ 📜 Contact.js
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
- ┣ 📜 README.md
- 
-
 🚀 Getting Started
 
 
