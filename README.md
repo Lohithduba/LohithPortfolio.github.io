@@ -2,7 +2,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 
 🚀 Live Demo
 
-You can check out the live version of my portfolio here: Portfolio Website (Replace with your actual link)
+You can check out the live version of my portfolio here: https://lohithduba.github.io/LohithPortfolio.github.io/
 
 
 🚀 Getting Started
