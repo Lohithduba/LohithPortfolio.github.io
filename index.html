@@ -20,7 +20,11 @@
 							<img src="lohith.jpeg" style="width: 350px; height: 350px; border-radius:50%;">
 							<div>
 								<h1>Hi, I am<br /> Lohith Duba</h1>
-								<p>Disciplined. Driven. Destined for Greatness.🚀🎖️</p>
+								<div class="elements">
+                   
+                    <span id="element"></span>
+                </div>
+							
 							</div>
 						</div>
 						<ul class="actions">
@@ -135,6 +139,13 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+            strings: ["Disciplined. Driven. Destined for Greatness.🚀🎖️"],
+            typeSpeed: 50,
+        });
+    </script>
 
 	</body>
 </html>
